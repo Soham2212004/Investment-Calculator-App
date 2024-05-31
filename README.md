@@ -1,6 +1,11 @@
 
 # Investment Calculator App
 
+
+
+https://github.com/Soham2212004/Investment-Calculator-App/assets/142389695/42b1ebbc-c2e1-41a9-ba3c-5afe5c9c7d53
+
+
 # Overview
 
 The Investment Calculator app is a comprehensive financial tool designed to help users manage and plan their finances effectively. This app provides a wide range of calculators to cover various aspects of investments, savings, and everyday math needs.
