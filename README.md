@@ -91,7 +91,7 @@ Android
 Developed using Flutter, leveraging the Dart programming language for a smooth and responsive user experience.
 
 # Developer
-## Soham Soni
+## [Soham Soni](mailto:sonisoham91@gmail.com)
 
 
 
